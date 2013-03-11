@@ -5,4 +5,4 @@ Created on Mar 7, 2013
 '''
 
 if __name__ == '__main__':
-    pass
+    print "Made a change to TestClass in first repository."
